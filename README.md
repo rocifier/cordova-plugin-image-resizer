@@ -1,3 +1,5 @@
+Updated by Ryan O'Connor for both platforms to use full uri and original filename (minus the path) for destination file.
+
 # Image Resizer for Cordova #
 By: Protonet GmbH
 
